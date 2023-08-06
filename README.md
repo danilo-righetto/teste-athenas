@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://app.athenas.online/img/logo_athenasonline.png" alt="Athenas Teste">
+  <img src="https://app.athenas.online/img/logo_athenasonline.png" alt="Athenas Teste - Danilo Righetto">
 </h1>
 
 ## Introduction/Introdução
 
-O projeto se baseia-se no modelo de negócio de um Cardápio Online, que será disponibilizado por restaurantes e lanchonetes facilitando assim os pedidos dos estabelecimentos, fidelizando o cliente e agilizando a compra para o usuário final.
+As [regras do teste](https://gist.github.com/lucmarcio/b5d67c48391f04876fa0d3103db80dec) podem ser encontradas aqui.
 
 ## Installation/Instalação
 
